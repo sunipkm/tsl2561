@@ -1,0 +1,3 @@
+# Test code for TSL2561 I2C interface
+Status: Verified working against Arduino TSL2561 library.
+TODO: Integrate with a function to calculate lux.
